@@ -12,12 +12,12 @@ for(let i=1;i<=13;i++){
 }
 if(count==2){
 	
-	console.log("It is a prime number")
+	console.log("It is a prime number");
 
 }
 
 else{
-	console.log("It is not a prime number")
+	console.log("It is not a prime number");
 
 }
 

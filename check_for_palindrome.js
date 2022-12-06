@@ -16,6 +16,6 @@ if(bag==str){
 }
 else{
 
-	console.log("It is not a palindrome)
+	console.log("It is not a palindrome);
 
 }
